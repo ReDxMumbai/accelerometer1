@@ -1,5 +1,6 @@
 
 Accelerometer MMA7361(with gyro) - to detect the orientation of the body(left, right and center)
+**download the library AcceleroMMA7361.h and put it in Arduino/library folder
 
 1.get acceleration in x y z directions - 
 		this can be obtained by calculating voltagee from raw data
